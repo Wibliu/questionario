@@ -1,0 +1,50 @@
+body{
+    background-color: #271D2E;
+    margin: 0;
+}
+
+.produtos{
+    border: 1px solid black;
+    width: 50%;
+    height: 500px;
+    margin-left: 7cm;
+    margin-top: 2cm;
+    outline: 5px inset #562473;
+outline-offset: 0px;
+border-radius: 20px;
+}
+
+
+li {
+    border: 1px solid black;
+    width: 200px;
+    height: 50px;
+    margin-left: 25%;
+    padding-top:30px;
+    list-style: none;
+    background-color: blueviolet;
+    
+    border-radius: 20px;
+    text-align: center;
+}
+
+.prod{
+    margin-top: 6vh;
+}
+
+.bt1{
+    margin-left: 5.1cm;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.bt2{
+    margin-left: 5.1cm;
+    margin-top: 13px;
+    border-radius: 20px;
+}
+
+.tec {
+    background-image: url(img/secutiry.jpg);
+}
+
